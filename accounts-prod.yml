@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Vbank accounts related PROD APIs for Production"
+  message: "Welcome to Vbank accounts related PROD APIs for Production, NOW FROM GITHUB"
   contactDetails:
     name: "Vasil Doe - Production"
     email: "vasil@vasil.com"
